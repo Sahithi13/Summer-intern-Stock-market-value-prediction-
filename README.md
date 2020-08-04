@@ -1,0 +1,2 @@
+# Summer-intern-Stock-market-value-prediction-
+With the advent of the digital computer, stock market prediction has since moved into the technological realm. The most prominent technique involves the use of artificial neural networks (ANNs) . ANNs can be thought of as mathematical function approximators. NNs require training and can have a large parameter space; it is useful to optimize the network for optimal predictive ability.
